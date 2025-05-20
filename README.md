@@ -78,6 +78,9 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 ## Repository Info
 
 **Created by:** Sophumelela Silangulana 
+
 **Cell no:** 065 626 0271
+
 **Email:** silangulanas@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/sophumelela-silangulana-086799234/
