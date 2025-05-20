@@ -67,7 +67,7 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 - Submitted CV for internships and junior roles.
 - Platforms: LinkedIn, Indeed, direct emails.
 
-### Reflection – STAR Technique
+### Reflection
 - **Situation**: I was searching for industry exposure.  
 - **Task**: Apply using my CV.  
 - **Action**: Sent targeted applications with tailored CVs.  
