@@ -46,10 +46,11 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 ## Create a CV
 
 ### Evidence
-- [ View My CV ](./CV%20OF%20Sophumelela%20Silangulana.pdf)
+ [ View My CV ](./CV%20OF%20Sophumelela%20Silangulana.pdf)
 - Highlights:
   - Personal Info
-  - Skills & Education
+  - Skills & Interest
+  - Education
   - References
 
 ### Reflection – STAR Technique
@@ -76,5 +77,7 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 
 ## Repository Info
 
-📌 **Created by:** Sophumelela Silangulana  
-📧 **Email:** silangulanas@gmail.com  
+**Created by:** Sophumelela Silangulana 
+**Cell no:** 065 626 0271
+**Email:** silangulanas@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/sophumelela-silangulana-086799234/
