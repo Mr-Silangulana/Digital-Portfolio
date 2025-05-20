@@ -34,7 +34,7 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 
 ### Evidence
 - Completed a personality test using 16Personalities.com.
-- Personality type: **ISTJ – The Logistician**
+- Personality type: [**ENTJ - Commander**](https://www.16personalities.com/profiles/entj-a/m/bptqrhb7o?utm_source=results-assertive-commander&utm_medium=email&utm_campaign=en&utm_content=view-results)
 - Traits: Practical, responsible, detail-oriented, structured.
 
 ### Reflection 
