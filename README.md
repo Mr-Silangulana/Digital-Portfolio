@@ -3,6 +3,7 @@
 My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cape Peninsula University of Technology pursuing a field in ICT (Diploma in Communication Networks).With a strong foundation in networking protocols along with security tools and Application development, and also working on projects such as Network Management, network security and updating network infrastructure. These experiences have allowed me to develop skills in Networking and Security.
  </P>
 ---
+
 ## Career Counselling
 
 ### Evidence
