@@ -17,6 +17,8 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 ## Skills and Interests
 
 ### Evidence
+![](https://github.com/user-attachments/assets/b0181761-bcc2-489f-b7d8-e22672f8e9b8)
+
 - Microsoft Office Suite (Word, Excel, Access, PowerPoint)
 - Java, HTML, CSS
 - Networking concepts & Cisco device configuration
@@ -33,9 +35,8 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 ## Personality Assessment
 
 ### Evidence
-- Completed a personality test using 16Personalities.com.
-- Personality type: [**ENTJ - Commander**](https://www.16personalities.com/profiles/entj-a/m/bptqrhb7o?utm_source=results-assertive-commander&utm_medium=email&utm_campaign=en&utm_content=view-results)
-- Traits: Practical, responsible, detail-oriented, structured.
+![Personality Assessment](https://github.com/user-attachments/assets/9f9628e1-a26f-43c7-9586-562b238d7ba4)
+
 
 ### Reflection 
 - **Situation**: I wanted to understand how my personality influences my career path. 
@@ -46,12 +47,9 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 ## Create a CV
 
 ### Evidence
+(https://github.com/user-attachments/assets/92867f29-6d08-4d9c-8540-f696334d3ae1)
+
  [ View My CV ](./CV%20OF%20Sophumelela%20Silangulana.pdf)
-- Highlights:
-  - Personal Info
-  - Skills & Interest
-  - Education
-  - References
 
 ### Reflection – STAR Technique
 - **Situation**: I needed to develop a professional CV.  
