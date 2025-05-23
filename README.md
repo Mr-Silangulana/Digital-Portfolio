@@ -17,7 +17,7 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 ## Skills and Interests
 
 ### Evidence
-![](Skills_and_Interest.png)(
+![](Skills_and_Interest.png) ![](AI_900.png)
 
 - Microsoft Office Suite (Word, Excel, Access, PowerPoint)
 - Java, HTML, CSS
