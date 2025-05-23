@@ -35,7 +35,7 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 ## Personality Assessment
 
 ### Evidence
-![Personality Assessment](https://github.com/user-attachments/assets/9f9628e1-a26f-43c7-9586-562b238d7ba4)
+![](Personality_Assessment.png)
 
 
 ### Reflection 
