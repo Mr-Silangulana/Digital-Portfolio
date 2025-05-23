@@ -47,7 +47,8 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 ## Create a CV
 
 ### Evidence
-(https://github.com/user-attachments/assets/92867f29-6d08-4d9c-8540-f696334d3ae1)
+
+
 
  [ View My CV ](./CV%20OF%20Sophumelela%20Silangulana.pdf)
 
