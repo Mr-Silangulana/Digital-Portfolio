@@ -17,7 +17,7 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 ## Skills and Interests
 
 ### Evidence
-![](Skills_and_Interest.png)
+![](Skills_and_Interest.png)(
 
 - Microsoft Office Suite (Word, Excel, Access, PowerPoint)
 - Java, HTML, CSS
@@ -48,7 +48,7 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 
 ### Evidence
 
-[](Create_CV.png) 
+![](Create_CV.png) 
 
  [ View My CV ](./CV%20OF%20Sophumelela%20Silangulana.pdf)
 
@@ -63,8 +63,7 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 ## CV Submission
 
 ### Evidence
-- Submitted CV for internships and junior roles.
-- Platforms: LinkedIn, Indeed, direct emails.
+![](IT_Support.png)
 
 ### Reflection
 - **Situation**: I was searching for industry exposure.  
