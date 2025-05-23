@@ -48,7 +48,7 @@ This is Sophumelela Silangulana's digital portfolio showing my development and r
 
 ### Evidence
 
-
+[](Create_CV.png) 
 
  [ View My CV ](./CV%20OF%20Sophumelela%20Silangulana.pdf)
 
