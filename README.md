@@ -66,8 +66,8 @@ My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cap
 ![](X)
 
 ### Reflection
-- **Situation**: As I am an Intern with NLSA, I have to maintain professionalism and adhere to ethical workplace standards.  
-- **Task**: I must ensure tha evry staff member is able to access and use all ICT resources they need, I must make sure they are able to make calls, communicate via teams and also they are able to access the applications used by the Department to ensure that the community gets what they need.  
+- **Situation**: As I am an Intern with NLSA, I have to maintain professionalism and adhere to ethical workplace standards. Lots of tickets are logged by stuff memmbers for assistance by ICT department. 
+- **Task**: I must ensure that every staff member is able to access and use all ICT resources they need, I must make sure they are able to make calls, communicate via teams and also they are able to access the applications used by the Department to ensure that the community gets what they need. Mostly, I make sure that each and every is replied to and resolved.
 - **Action**: I ensure that each and every staff member has their system up-to-date with all applications updated to the latest feature. I make sure that every cable in the building is set and installed correctly. I also ensure that all the staff's PCs are protected and are always connected to the Organization's network not from outside networks.  
 - **Result**: I am now able to manage staff accounts, change accoutn password as an administrator and also allocating resources to staff members as per SLA and what they need to complete their given tasks.
 
