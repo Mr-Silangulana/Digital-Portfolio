@@ -6,7 +6,7 @@ My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cap
 ## Business Communication
 
 ### Evidence
-- Email examples and documentation from network project coordination between team members (as part of the project you managed earlier in 2025).
+- Email examples and documentation from network project "enhancing network infrasture for Manzomthombo Secondary School (as part of the project you managed earlier in 2025).
 - Presentation slides summarizing network design considerations, including routing, ACLs, and cloud integration.
 - Written feedback and professional correspondence from collaborative work.
 - [x]
