@@ -23,7 +23,7 @@ My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cap
 
 - Practice interview questions with focus on ICT-related roles (network engineer, systems analyst, IT Support etc.).
 
-  ![](https://github.com/Mr-Silangulana/Digital-Portfolio/blob/main/Interview%20Questions.mp4)
+  (https://github.com/Mr-Silangulana/Digital-Portfolio/blob/main/Interview%20Questions.mp4)
 
 ### Reflection 
 - **Situation**: Preparing for a simulated interview as part of my work readiness training.  
@@ -49,7 +49,7 @@ My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cap
 
 -Created and updated LinkedIn profile showcasing my ICT skills and coursework.
 -Participated in online discussions about cloud computing, OpenStack, and 5G networks.
-- [X]
+(https://github.com/Mr-Silangulana/Digital-Portfolio/blob/main/Professional%20Networking.mp4)
 
 ### Reflection – STAR Technique
 - **Situation**: I wanted to build professional connections within the ICT field to explore opportunities and learn from industry professionals. 
