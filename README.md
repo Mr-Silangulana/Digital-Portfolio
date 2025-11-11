@@ -9,7 +9,7 @@ My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cap
 - Email examples and documentation from network project "enhancing network infrasture for Manzomthombo Secondary School (as part of the project you managed earlier in 2025).
 - Presentation slides summarizing network design considerations, including routing, ACLs, and cloud integration.
 - Written feedback and professional correspondence from collaborative work.
-- (https://github.com/Mr-Silangulana/Digital-Portfolio/blob/main/Emails.png)
+  ![](https://github.com/Mr-Silangulana/Digital-Portfolio/blob/main/Emails.png)
 
 ###  Reflection
 - **Situation**: While working on a project to enhance network infrastructure one the schools in Cape Town, I was responsible for coordinating communication and ensuring technical alignment on the network design.
@@ -24,7 +24,7 @@ My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cap
 
 - Practice interview questions with focus on ICT-related roles (network engineer, systems analyst, IT Support etc.).
 
-- [X]
+  ![]()
 
 ### Reflection 
 - **Situation**: Preparing for a simulated interview as part of my work readiness training.  
