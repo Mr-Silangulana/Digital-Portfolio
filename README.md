@@ -1,15 +1,15 @@
 # Digital-Portfolio
 <P>
-My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cape Peninsula University of Technology pursuing a field in ICT (Diploma in Communication Networks).With a strong foundation in networking protocols along with security tools and Application development, and also working on projects such as Network Management, network security and updating network infrastructure. These experiences have allowed me to develop skills in Networking and Security.
+My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cape Peninsula University of Technology pursuing a field in ICT (Diploma in Communication Networks), I am also doing in a Work Intergrated Learning programme with MICT SETA who placed me with National Library of South Africa. With a strong foundation in networking protocols along with security tools and Application development, and also working on projects such as Network Management, network security and updating network infrastructure. These experiences have allowed me to develop skills in Networking and Security.
  </P>
 
 ## Business Communication
 
 ### Evidence
-- Email examples and documentation from network project coordination between teams in different continents (as part of the project you managed earlier in 2025).
+- Email examples and documentation from network project coordination between team members (as part of the project you managed earlier in 2025).
 - Presentation slides summarizing network design considerations, including routing, ACLs, and cloud integration.
 - Written feedback and professional correspondence from collaborative work.
-- [🟡 Add: upload your slides, email screenshots, or documents as evidence links.]
+- [x]
 
 ###  Reflection
 - **Situation**: While working on a project to enhance network infrastructure one the schools in Cape Town, I was responsible for coordinating communication and ensuring technical alignment on the network design.
@@ -22,9 +22,9 @@ My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cap
 ### Evidence
 - Participation in work-readiness and interview preparation sessions.
 
-- Practice interview questions with focus on ICT-related roles (network engineer, systems analyst, etc.).
+- Practice interview questions with focus on ICT-related roles (network engineer, systems analyst, IT Support etc.).
 
-- [🟡 Add: attach any notes, scripts, or reflection documents from interview training sessions.]
+- [X]
 
 ### Reflection 
 - **Situation**: Preparing for a simulated interview as part of my work readiness training.  
@@ -35,7 +35,7 @@ My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cap
 ## Mock Interview
 
 ### Evidence
-![](Personality_Assessment.png)
+![](X)
 
 
 ### Reflection 
@@ -50,7 +50,7 @@ My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cap
 
 -Created and updated LinkedIn profile showcasing my ICT skills and coursework.
 -Participated in online discussions about cloud computing, OpenStack, and 5G networks.
-- [🟡 Add: link to your LinkedIn profile, networking event screenshots, or online engagement evidence.]
+- [X]
 
 ### Reflection – STAR Technique
 - **Situation**: I wanted to build professional connections within the ICT field to explore opportunities and learn from industry professionals. 
@@ -63,13 +63,13 @@ My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cap
 ## Workplace Etiquette X
 
 ### Evidence
-![](IT_Support.png)
+![](X)
 
 ### Reflection
-- **Situation**: I was searching for industry exposure.  
-- **Task**: Apply using my CV.  
-- **Action**: Sent targeted applications with tailored CVs.  
-- **Result**: Received responses and invitations to interviews.
+- **Situation**: As I am an Intern with NLSA, I have to maintain professionalism and adhere to ethical workplace standards.  
+- **Task**: I must ensure tha evry staff member is able to access and use all ICT resources they need, I must make sure they are able to make calls, communicate via teams and also they are able to access the applications used by the Department to ensure that the community gets what they need.  
+- **Action**: I ensure that each and every staff member has their system up-to-date with all applications updated to the latest feature. I make sure that every cable in the building is set and installed correctly. I also ensure that all the staff's PCs are protected and are always connected to the Organization's network not from outside networks.  
+- **Result**: I am now able to manage staff accounts, change accoutn password as an administrator and also allocating resources to staff members as per SLA and what they need to complete their given tasks.
 
 ---
 
