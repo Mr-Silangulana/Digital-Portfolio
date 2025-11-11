@@ -63,7 +63,7 @@ My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cap
 ## Workplace Etiquette X
 
 ### Evidence
-![](X)
+![](https://github.com/Mr-Silangulana/Digital-Portfolio/blob/main/Tasks%20done%20at%20work.png)
 
 ### Reflection
 - **Situation**: As I am an Intern with NLSA, I have to maintain professionalism and adhere to ethical workplace standards. Lots of tickets are logged by stuff memmbers for assistance by ICT department. 
