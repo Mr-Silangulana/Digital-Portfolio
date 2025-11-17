@@ -34,7 +34,7 @@ My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cap
 ## Mock Interview
 
 ### Evidence
-![](X)
+![](https://github.com/wil-it2025/cv-tutorial-Dr-Silver/blob/main/Mock%20Interview%20of%20S%20Silangulana%20222518502.mp4)
 
 
 ### Reflection 
@@ -49,7 +49,7 @@ My name is Sophumelela Silangulana, and I am currently a 3rd year student at Cap
 
 -Created and updated LinkedIn profile showcasing my ICT skills and coursework.
 -Participated in online discussions about cloud computing, OpenStack, and 5G networks.
-(https://github.com/Mr-Silangulana/Digital-Portfolio/blob/main/Professional%20Networking.mp4)
+-(https://github.com/Mr-Silangulana/Digital-Portfolio/blob/main/Professional%20Networking.mp4)
 
 ### Reflection – STAR Technique
 - **Situation**: I wanted to build professional connections within the ICT field to explore opportunities and learn from industry professionals. 
